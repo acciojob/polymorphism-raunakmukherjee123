@@ -9,7 +9,7 @@ public class Main {
      double ans3=p.product(20,30);
      System.out.println(ans1+" "+ans2+" "+ans3);
    }
-   static class Product
+   public static class Product
   {
       public int product(int x, int y)
       {
